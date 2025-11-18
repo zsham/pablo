@@ -1,0 +1,5 @@
+{
+  "name": "SEO Keyword Intent Analyzer",
+  "description": "An intelligent tool that generates long-tail keywords from a seed keyword and groups them by user intent (Informational, Commercial, Navigational, Transactional) using the Gemini API.",
+  "requestFramePermissions": []
+}
